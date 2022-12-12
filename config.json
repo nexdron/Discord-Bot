@@ -1,11 +1,11 @@
 {
-    "discord_token": "MTA1MTI0Mzk4NTU4ODQ3NDA1OA.GM69le.O8b3Qtm6-LzO4jxjzQJa6IN7ZJ33nC4nmkRmzA",
+    "discord_token": "",
     "prefix": "!",
     "debug_guilds": [
-        1027343274790363136,
-        1051243405591728210
+        123,
+        1234
     ],
-    "owner_id": 178990415867805696,
+    "owner_id": 000,
     "raffle_channel_name": "raffles",                                 
     "daily_bonus_delay": 86400,
     "daily_bonus_amount": 10,
